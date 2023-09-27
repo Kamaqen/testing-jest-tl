@@ -1,4 +1,4 @@
-import styled from "@emotion/styled";
+                             import styled from "@emotion/styled";
 import { useState } from "react";
 import { Card, TextArea, Button } from "./ui";
 
